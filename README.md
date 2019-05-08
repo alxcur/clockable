@@ -1,2 +1,2 @@
 # clockable
-GitHub Pages
+https://alxcur.github.io/clockable/
